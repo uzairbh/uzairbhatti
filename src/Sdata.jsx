@@ -11,26 +11,26 @@ const Sdata = [
 },
 {
     imgsrc:d,
-    title: "dweb",
+    title: "Lamborghini",
 },
 
 {
     imgsrc:q,
-    title: "qweb",
+    title: "BMW",
 },
 
 {
     imgsrc:c,
-    title: "cweb",
+    title: "Bugati chiron",
 },
 
 {
     imgsrc:b,
-    title: "bweb",
+    title: "Farrari",
 },
 {
     imgsrc:f,
-    title: "fweb",
+    title: "Bugatti viron",
 }
 
 ];
