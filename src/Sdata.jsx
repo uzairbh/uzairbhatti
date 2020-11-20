@@ -7,7 +7,7 @@ import q from "../src/images/q.jpg";
 const Sdata = [
 {
     imgsrc:web,
-    title: "web",
+    title: "Bugatti",
 },
 {
     imgsrc:d,
